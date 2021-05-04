@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE06ISSM-RID16-07-NUTNRB000-telemetered-nutnr_b_dcl_full_instrument
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: NUTNR<br>
